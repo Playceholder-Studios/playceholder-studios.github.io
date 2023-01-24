@@ -1,2 +1,2 @@
 # playceholder-studios.github.io
-Github Pages Site
+Welcome to Playceholder Studios!
